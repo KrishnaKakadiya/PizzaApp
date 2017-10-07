@@ -6,9 +6,9 @@ import android.os.Bundle;
 import android.os.Handler;
 
 /**
- * @author eInfochips
- * @date 27-11-2015
- * @file Constant.java
+ * @author Krishna Kakadiya
+ * @date 10-13-2016
+ * @file SplashActivity.java
  */
 
 public class SplashActivity extends Activity

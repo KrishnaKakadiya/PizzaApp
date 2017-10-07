@@ -18,9 +18,9 @@ import butterknife.ButterKnife;
 import butterknife.OnClick;
 
 /**
- * @author eInfochips
- * @date 27-11-2015
- * @file Constant.java
+ * @author Krishna Kakadiya
+ * @date 10-13-2016
+ * @file PizzaActivity.java
  */
 
 public class PizzaActivity extends AppCompatActivity {

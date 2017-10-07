@@ -10,9 +10,9 @@ import android.widget.ImageView;
 import android.widget.TextView;
 
 /**
- * @author eInfochips
- * @date 27-11-2015
- * @file Constant.java
+ * @author Krishna Kakadiya
+ * @date 10-13-2016
+ * @file PizzaListAdapter.java
  */
 
 public class PizzaListAdapter extends ArrayAdapter<String> {
